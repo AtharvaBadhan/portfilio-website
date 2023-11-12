@@ -1,0 +1,13 @@
+.custom-bg
+{
+    background-color: #2E3033
+    ;
+    color: #d6d6d6;
+}
+.btn-custom:hover {
+
+    background-color: #1F2022; /* New background color */
+    color: #4e4d4d; /* New text color */
+    background: #a6a6a6;
+}
+/* apikey: cal_live_945b5dc72f1bda8d452adc9d29ec01cb  */
